@@ -25,6 +25,13 @@
     </properties>
 
     <dependencies>
+        <!--redis分布式锁-->
+        <dependency>
+            <groupId>top.crossoverjie.opensource</groupId>
+            <artifactId>distributed-redis-lock</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+
         <!--guava缓存cache-->
         <dependency>
             <groupId>com.google.guava</groupId>
