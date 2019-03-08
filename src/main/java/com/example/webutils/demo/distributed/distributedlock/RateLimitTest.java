@@ -1,4 +1,4 @@
-package com.example.webutils.common.limitflow;
+package com.example.webutils.demo.distributed.distributedlock;
 
 import com.google.common.util.concurrent.RateLimiter;
 

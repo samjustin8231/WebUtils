@@ -1,4 +1,4 @@
-package com.example.webutils.common.demo;
+package com.example.webutils.demo.concurrent;
 
 import lombok.extern.slf4j.Slf4j;
 

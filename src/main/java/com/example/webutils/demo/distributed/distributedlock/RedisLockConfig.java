@@ -1,11 +1,9 @@
-package com.example.webutils.common.distributedlock;
+package com.example.webutils.demo.distributed.distributedlock;
 
 import com.crossoverjie.distributed.lock.redis.RedisLock;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.Jedis;
-import redis.clients.jedis.JedisCluster;
 
 /**
  * 类的实现描述：TODO 类实现描述

@@ -1,4 +1,4 @@
-package com.example.webutils.common.demo;
+package com.example.webutils.demo.java8;
 
 import java.util.function.Consumer;
 

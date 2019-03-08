@@ -1,4 +1,4 @@
-package com.example.webutils.common.demo;
+package com.example.webutils.demo.javageneral;
 
 import sun.jvm.hotspot.oops.Array;
 

@@ -1,4 +1,4 @@
-package com.example.webutils.common.distributedlock;
+package com.example.webutils.demo.distributed.distributedlock;
 
 import com.crossoverjie.distributed.lock.redis.RedisLock;
 import lombok.extern.slf4j.Slf4j;
